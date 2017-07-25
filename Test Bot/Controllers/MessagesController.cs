@@ -53,7 +53,7 @@ namespace Test_Bot
             else if (message.Type == ActivityTypes.Ping)
             {
             }
-
+            //// Hello Beech!
             return null;
         }
     }
